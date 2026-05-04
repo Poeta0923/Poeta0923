@@ -87,14 +87,8 @@ AI 팀원 매칭 에이전시 서비스 (팀 프로젝트)
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Poeta0923&theme=tokyonight&hide_border=true&date_format=Y.n.j" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poeta0923&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Poeta0923&theme=tokyonight&no-frame=true&row=1&column=6)
+<img height="160" src="https://github-readme-stats-theta-beryl-73.vercel.app/api?username=Poeta0923&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-theta-beryl-73.vercel.app/api/top-langs/?username=Poeta0923&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
