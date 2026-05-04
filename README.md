@@ -25,15 +25,12 @@ TypeScript · Next.js · NestJS 기반의 현대적 웹 개발을 즐기며,
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
@@ -72,14 +69,8 @@ AI 팀원 매칭 에이전시 서비스 (팀 프로젝트)
 - **Stack:** React Native · Node.js(프록시) · Spring Boot · FastAPI
 - AI 기반 팀원 추천 알고리즘 서빙
 
-### 🎓 [inflearn-fullstack-clone](https://github.com/Poeta0923/inflearn-fullstack-clone)
-인프런 클론 프로젝트 — TypeScript 풀스택
-
 ### 📚 [bookCalendar-admin](https://github.com/Poeta0923/bookCalendar-admin)
 도서 캘린더 관리자 대시보드 — Express.js · EJS · MariaDB
-
-### ⛓️ [blockChain_NFT](https://github.com/Poeta0923/blockChain_NFT)
-블록체인 기반 중고서적 NFT 거래 플랫폼 — Solidity · Truffle · IPFS
 
 ---
 
