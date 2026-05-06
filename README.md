@@ -74,13 +74,20 @@ TypeScript · Next.js · NestJS 기반의 현대적 웹 개발을 즐기며,
 - **DevOps:** Docker Compose · GitHub Actions CI/CD
 
 ### 🤝 [team-ONE](https://github.com/Poeta0923/team-ONE)
-AI 팀원 매칭 에이전시 서비스 (팀 프로젝트)
+공모전·사이드 프로젝트 팀원 모집 플랫폼 (팀 프로젝트 / 백엔드 개발)
 
-- **Stack:** React Native · Node.js(프록시) · Spring Boot · FastAPI
-- AI 기반 팀원 추천 알고리즘 서빙
+- **Stack:** Node.js · Express · WebSocket · MySQL
+- HTTP·WebSocket 공통 JWT 인증 미들웨어 설계
+- WebSocket 기반 실시간 채팅 구현
+- DB 스키마 및 테이블 관계 모델링
 
 ### 📚 [bookCalendar-admin](https://github.com/Poeta0923/bookCalendar-admin)
-도서 캘린더 관리자 대시보드 — Express.js · EJS · MariaDB
+AI 독서 앱의 모델 학습·배포를 제어하는 관리자 웹 (캡스톤 디자인 / 5인 팀 프로젝트)
+
+- **Stack:** Node.js · Express 5 · EJS · MySQL · FastAPI 연동
+- AI 모델(감정·의도·질문 분류) 수동·자동 학습 및 서빙 버전 전환 UI 구현
+- 회원·게시글·신고·통계 5종 관리 기능 전담 개발
+- Winston 일별 로테이션 로그 시스템 구축
 
 ---
 
