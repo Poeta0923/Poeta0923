@@ -106,5 +106,6 @@ AI 독서 앱의 모델 학습·배포를 제어하는 관리자 웹 (캡스톤 
 
 [![Gmail](https://img.shields.io/badge/gimgwangsu0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gimgwangsu0@gmail.com)
 [![GitHub](https://img.shields.io/badge/Poeta0923-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Poeta0923)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/광수-김-100865408)
 
 </div>
