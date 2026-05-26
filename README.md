@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Kwangsoo Kim 👋
+# 안녕하세요. 저는 김광수입니다. 👋
 
-**풀스택 개발자 | 가천대학교 재학**
+**백엔드 개발자 | 가천대학교 재학**
 
-TypeScript · Next.js · NestJS 기반의 현대적 웹 개발을 즐기며,  
-실시간 통신, AI 통합, 클라우드 아키텍처까지 폭넓게 탐구하고 있습니다.
+TypeScript · NestJS 기반의 백엔드 개발을 즐기며,  
+유지보수와 확장성을 고려해 설계하는 것을 지향합니다.
 
 [![GitHub followers](https://img.shields.io/github/followers/Poeta0923?style=flat-square&color=6e40c9)](https://github.com/Poeta0923)
 [![Profile views](https://komarev.com/ghpvc/?username=Poeta0923&style=flat-square&color=6e40c9)](https://github.com/Poeta0923)
@@ -16,22 +16,22 @@ TypeScript · Next.js · NestJS 기반의 현대적 웹 개발을 즐기며,
 
 ## Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white)
-
-### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white)
 
 ### Database & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -48,10 +48,10 @@ TypeScript · Next.js · NestJS 기반의 현대적 웹 개발을 즐기며,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logoColor=white)
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
